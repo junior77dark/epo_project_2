@@ -14,7 +14,9 @@ Pour contribuer à ce projet, veuillez suivre les instructions suivantes :
 2. Créez une branche pour chaque nouvelle fonctionnalité ou correction. 
 3. Poussez vos branches et créez une Pull Request pour la fusion. 
 Merci pour votre contribution à ce projet éducatif !
+
 ## Ajout d'une nouvelle branche
+-
 NB : Pour plus d’information sur le formatage veuillez 
 consulter https://docs.github.com/fr/get-started/writing-on-github/getting-started-with
 writing-and-formatting-on-github/basic-writing-and-formatting-syntax
